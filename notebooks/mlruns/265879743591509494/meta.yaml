@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/sarmi/Repositorio_git/Salary/data-scientist-salary-pipeline/notebooks/mlruns/265879743591509494
+creation_time: 1763310711875
+experiment_id: '265879743591509494'
+last_update_time: 1763310711875
+lifecycle_stage: active
+name: salary_prediction_linear

@@ -1,0 +1,16 @@
+# Entorno virtual
+venv/
+__pycache__/
+*.pyc
+
+# Datos
+data/raw/
+data/processed/
+
+# Archivos temporales
+*.log
+.env
+.ipynb_checkpoints/
+
+# Archivos de sistema
+.DS_Store

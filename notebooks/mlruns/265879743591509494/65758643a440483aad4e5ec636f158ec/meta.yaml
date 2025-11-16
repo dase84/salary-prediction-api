@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/sarmi/Repositorio_git/Salary/data-scientist-salary-pipeline/notebooks/mlruns/265879743591509494/65758643a440483aad4e5ec636f158ec/artifacts
+end_time: 1763312323253
+entry_point_name: ''
+experiment_id: '265879743591509494'
+lifecycle_stage: active
+run_id: 65758643a440483aad4e5ec636f158ec
+run_name: amazing-lark-657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763312323211
+status: 3
+tags: []
+user_id: sarmi

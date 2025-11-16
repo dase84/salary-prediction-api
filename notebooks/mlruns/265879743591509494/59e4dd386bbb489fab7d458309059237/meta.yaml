@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/sarmi/Repositorio_git/Salary/data-scientist-salary-pipeline/notebooks/mlruns/265879743591509494/59e4dd386bbb489fab7d458309059237/artifacts
+end_time: 1763310712148
+entry_point_name: ''
+experiment_id: '265879743591509494'
+lifecycle_stage: active
+run_id: 59e4dd386bbb489fab7d458309059237
+run_name: abrasive-ram-987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763310712108
+status: 3
+tags: []
+user_id: sarmi
